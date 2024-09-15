@@ -1,41 +1,47 @@
-# Hi there, I'm Nkateko 👋
+# 👋 Hi, I’m Nkateko Mongoni
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **AI for Business Intelligence in Agriculture**
-- 🌱 I’m learning **Web development, JavaScript, and Relational Databases**
-- 💬 Ask me about **AI, system administration, and coding projects**
-- 📫 How to reach me: [nkateko@example.com](mailto:nkateko@example.com)
-- 📝 [Check out my blog](https://medium.com/@nkatekomongoni)
+👀 **I’m interested in everything that has the word 'software' in it.** If it were possible, I would learn everything!  
+🌱 **I’m currently learning:** Python and Java at WeThinkCode_  
+😄 **Pronouns:** She  
+⚡ **Fun fact:** I'm very good at reading people’s character, so tread carefully 😄  
+🎯 **Fingers to the board!**  
 
 ---
 
-### 🔧 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-### 🚀 Projects
-
-- 🏆 [AI in Business Intelligence for Agriculture](https://github.com/username/AI-for-Agriculture)  
-  A platform helping farmers buy and sell livestock with AI-powered verification tools.
-  
-- 📊 [Robot Worlds](https://github.com/username/RobotWorlds)  
-  A robot simulation game built with Java and SQL databases.
+## 🚀 Current Projects
+- **[AI in Business Intelligence for Agriculture](https://github.com/Nka-Tech-Oh/AI-for-Agriculture)**  
+  A platform to help farmers buy and sell livestock with AI-powered verification.
 
 ---
 
-### 💻 GitHub Stats
-![Nkateko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkatekomongoni&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Nkateko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nka-Tech-Oh&show_icons=true&theme=radical)
 
 ---
 
-### 🤝 Connect with Me
+## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nkatekomongoni)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter)](https://twitter.com/nkatekomongoni)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@nkatekomongoni)
+
+---
+
+## 🌟 Fun Section
+- 📚 **Favorite Quote:** "Code is like humor. When you have to explain it, it’s bad."
+- 🧠 **Random Skill:** Spotting plot twists in movies before they happen!
+
+---
+
+🎨 **What’s next?** I am looking forward to mastering backend development and diving deeper into artificial intelligence!
