@@ -1,11 +1,14 @@
-# 👋 Hi, I’m Nkateko Mongoni
+# 👋 Hello World, I’m Nkateko Mongoni
+
 ![Hello World Image](https://www.codelikethewind.org/content/images/size/w2000/2022/05/hello_world.png)
 
 👀 **I’m interested in everything that has the word 'software' in it.** If it were possible, I would learn everything!  
 🌱 **I’m currently learning:** Python and Java at WeThinkCode_  
 😄 **Pronouns:** She  
 ⚡ **Fun fact:** I'm very good at reading people’s character, so tread carefully 😄  
-🎯 **Fingers to the board!**  
+🎯 **Fingers to the board!** 
+
+![Keyboard Image](https://png.pngtree.com/thumb_back/fh260/background/20230715/pngtree-keyboard-illuminated-by-rgb-light-with-cartoon-hands-typing-image_3881095.jpg)
 
 ---
 
