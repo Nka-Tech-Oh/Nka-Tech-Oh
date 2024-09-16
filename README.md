@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Nkateko Mongoni
+![Hello World Image](https://www.codelikethewind.org/content/images/size/w2000/2022/05/hello_world.png)
 
 👀 **I’m interested in everything that has the word 'software' in it.** If it were possible, I would learn everything!  
 🌱 **I’m currently learning:** Python and Java at WeThinkCode_  
