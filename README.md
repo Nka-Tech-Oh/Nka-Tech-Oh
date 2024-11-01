@@ -48,6 +48,7 @@
 ## 📊 GitHub Stats
 
 ![Nkateko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nka-Tech-Oh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nka-Tech-Oh&layout=compact&theme=radical)
 
 ---
 
