@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 Current Projects
-- **[AI in Business Intelligence for Agriculture](https://github.com/Nka-Tech-Oh/AI-for-Agriculture)**  
+- **[AI in Business Intelligence for Agriculture](https://github.com/Nka-Tech-Oh/Impemepe_)**  
   A platform to help farmers buy and sell livestock with AI-powered verification.
 
 ---
@@ -47,8 +47,11 @@
 
 ## 📊 GitHub Stats
 
-![Nkateko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nka-Tech-Oh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nka-Tech-Oh&layout=compact&theme=radical)
+![Nkateko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nka-Tech-Oh&show_icons=true&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nka-Tech-Oh&layout=compact&theme=merko)
+![Profile Views](https://komarev.com/ghpvc/?username=Nka-Tech-Oh&color=blue)
+
+
 
 ---
 
